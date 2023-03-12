@@ -11,15 +11,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `zoonotes`,
-      href: "https://github.com/theN0N3N717Yone/zoonotes",
+      name: `mriganka`,
+      href: "https://mrigankakumardas.vercel.app/",
     },
   ],
   // blog setting (required)
   blog: {
     title: "zoonotes",
     description: "welcome to zoonotes!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
