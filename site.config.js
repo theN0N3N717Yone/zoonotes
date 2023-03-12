@@ -52,7 +52,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "theN0N3N717Yone/zoonotes",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
